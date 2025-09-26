@@ -19,11 +19,17 @@ Introducir, de manera práctica, las bases de programación en Julia. A través 
 
 ## Fechas y horarios
 El taller se llevará a cabo en 6 sesiones:
+
 Primera sesión: 26 de septiembre (Por Zoom)
+
 Segunda sesión: 3 de octubre (Por Zoom)
+
 Tercera sesión: 10 de octubre (Biblioteca, sala BI-214)
+
 Cuarta sesión: 7 de noviembre (Biblioteca, sala BI-214)
+
 Quinta sesión: 14 de noviembre (Biblioteca, sala BI-214)
+
 Sexta sesión: 21 de noviembre (Biblioteca, sala BI-214)
 
 ## Grabaciones

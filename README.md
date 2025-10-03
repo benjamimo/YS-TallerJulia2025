@@ -28,7 +28,7 @@ El taller se llevará a cabo en 6 sesiones:
 
 ## Grabaciones
 Las grabaciones están en el siguiente folder compartido:
-
+https://tecmx-my.sharepoint.com/:f:/g/personal/b_pegar_tec_mx/Emwu651ywTlGlQ_0DiIdXAEBlGdPhHW2mNVUcvn5SZs2lg?e=1hhfKh 
 
 ## Navegación en el repositorio
 El repositorio está organizado de la siguiente manera:
